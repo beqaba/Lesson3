@@ -2,16 +2,18 @@ body{
 	padding: 30px;
 }
 .logo{
+	
 	display: inline-block;
 	width: 100px;
+	vertical-align: middle;
+}
+.navbar{
+	display: inline-block;
 	
 }
-.navi-ul{
-display: inline-block;
-	color: #3d58a6;
-	}
+
 .navi-li{
-	vertical-align: middle;
+	
 	padding-left: 30px;
 	margin-top: 17px;
 	display: inline-block;
